@@ -30,11 +30,11 @@ The goal is to deeply understand how embeddings, hidden layers, normalization, a
 ## 📊 Results
 
 **Training Loss Curve:**  
-*![Activation Distribution](image-2.png)*  
+*![Activation Distribution](<img width="1601" height="374" alt="image" src="https://github.com/user-attachments/assets/47871885-3bf6-4152-8bac-f1bb782b5dbe" />)*  
 
-*![Gradient Distribution](image-3.png)*
+*![Gradient Distribution](<img width="1606" height="374" alt="image" src="https://github.com/user-attachments/assets/c6d75c13-0b59-4579-bae9-475d18eebd41" />)*
 
-*![Weights Gradient Distribution](image-4.png)*
+*![Weights Gradient Distribution](<img width="1606" height="374" alt="image" src="https://github.com/user-attachments/assets/25fdc73c-b82f-4b01-bd6b-72bcebc11dfc" />)*
 
 **Generated Sample Names:**  
 - `Loma`  
@@ -90,7 +90,4 @@ CharLM-MLP/
 ```
 
 ---
-
-## 🔗 Credits
-- Inspired by [Andrej Karpathy’s Zero to Hero series](https://github.com/karpathy/nn-zero-to-hero).  
-- All improvements (BatchNorm implementation, experiments, analysis) coded and documented by **Harsha Vardhan**.  
+ 
