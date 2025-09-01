@@ -29,13 +29,15 @@ The goal is to deeply understand how embeddings, hidden layers, normalization, a
 
 ## 📊 Results
 
-**Training Loss Curve:**  
-*![Activation Distribution](<img width="1601" height="374" alt="image" src="https://github.com/user-attachments/assets/47871885-3bf6-4152-8bac-f1bb782b5dbe" />)*  
+**Activation Distribution**  
 <img width="1601" height="374" alt="download" src="https://github.com/user-attachments/assets/93532ce5-6aa3-457f-9c90-c60417819679" />
 
-*![Gradient Distribution](<img width="1606" height="374" alt="image" src="https://github.com/user-attachments/assets/c6d75c13-0b59-4579-bae9-475d18eebd41" />)*
+**Gradient Distribution**
+<img width="1606" height="374" alt="download" src="https://github.com/user-attachments/assets/706d97aa-4e4c-4e18-9bee-0cbab6197e45" />
 
-*![Weights Gradient Distribution](<img width="1606" height="374" alt="image" src="https://github.com/user-attachments/assets/25fdc73c-b82f-4b01-bd6b-72bcebc11dfc" />)*
+**Weights Gradient Distribution**
+<img width="1606" height="374" alt="download" src="https://github.com/user-attachments/assets/404a26ca-a747-436c-8e20-dac387012bcd" />
+
 
 **Generated Sample Names:**  
 - `Loma`  
